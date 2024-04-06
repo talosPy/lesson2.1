@@ -1,0 +1,36 @@
+button {
+    color:red
+}
+
+.redElement {
+   color: red;
+}
+
+.boldElement {
+    font-weight: 900;
+}
+
+.myButton1 {
+    color: darkgreen;
+}
+
+.myButton2 {
+    color: chartreuse;
+}
+
+.myButton3 {
+    color: darkslateblue;
+}
+
+.h1 {
+    color: red;
+    font-weight: 900;
+    
+}
+.h2 {
+    color: blue;
+}
+.image {
+    padding: 0px 30px;
+    margin: 0px 350px;
+}
